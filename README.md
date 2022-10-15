@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif)]
 <h1 align="center">Hi 👋, I'm Ruchira Kale</h1>
 <h3 align="center">A passionate backend developer(python) from India</h3>
 <img align= "right" alt = "Coding" width = "400" src= "https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
